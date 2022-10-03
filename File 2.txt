@@ -1,6 +1,6 @@
 This is my 2nd git file, this has been amended
 
-
+3rd row added
 
 
 
