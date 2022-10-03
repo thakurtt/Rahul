@@ -1,1 +1,2 @@
 This my first Git file, this has been amended
+This is to practice conflicts
