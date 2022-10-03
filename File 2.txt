@@ -1,7 +1,6 @@
 This is my 2nd git file, this has been amended
-<<<<<<< HEAD
 
 This is to add 3rd row
-=======
+
 This to add 2nd new row
->>>>>>> fcf39825f9cb63139032b66c933983269d609184
+
